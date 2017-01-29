@@ -1,26 +1,20 @@
 <!DOCTYPE html>
-<html >
+<html>
 <head>
   <meta charset="UTF-8">
   <title>WIZARD</title>
 
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
-
-      <link rel="stylesheet" href="css/style.css">
-
-
+  <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/normalize.css">
 </head>
-
-
-  </head>
 <body>
 <div id="main">
 <header data-center="background-position: 50% 0px;" data-top-bottom="background-position: 50% -200px;">
 <div id="headercontent" data-top=" opacity:1; transform[swing]:scale(1) " data-top-bottom=" opacity:0; transform[swing]:scale(0.5) " data-anchor-target="header">
-<h1>We make future//./</h1>
-<br><br>
-<p><a style="color:white" href="https://github.com/Prinzhorn/skrollr" target="_blank">get scrollr.js</a></p>
+<h1>WIZARD</h1>
+
+
 </div>
 <div class="mouse animated fadeInUp" data-top=" opacity:1;  " data-top-bottom=" opacity:0; " data-anchor-target="header">
 <div class="scroll">
@@ -33,7 +27,7 @@
 </p>
 </div>
 </div>
-</div>
+
 <section class="fullwidth">
 <div class="paralax1" data-center="background-position: 50% 0px;" data-top-bottom="background-position: 50% -200px;" data-bottom-top="background-position: 50% 100px;">
 <div class="paralaxtext" data-bottom-top=" opacity:0; transform[swing]:scale(0.5) " data-top=" opacity:1; transform[swing]:scale(1) ">
