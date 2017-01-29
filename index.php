@@ -1,18 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
+
   <meta charset="UTF-8">
   <title>WIZARD</title>
 
-
-  <link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/normalize.css">
 </head>
 <body>
+
 <div id="main">
-<header data-center="background-position: 50% 0px;" data-top-bottom="background-position: 50% -200px;">
+<header>
 <div id="headercontent" data-top=" opacity:1; transform[swing]:scale(1) " data-top-bottom=" opacity:0; transform[swing]:scale(0.5) " data-anchor-target="header">
+
 <h1>WIZARD</h1>
+<h2>We Make the Future Perfect</h2>
 
 
 </div>
@@ -20,11 +23,11 @@
 <div class="scroll">
 </div>
 </header>
-<div class="container" style="padding-top:100px;padding-bottom:100px">
-<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum efficitur sed enim in mollis. Proin molestie libero id congue hendrerit. In hac habitasse platea dictumst. Aenean augue libero, scelerisque id sagittis et, tristique nec ipsum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam congue maximus efficitur. Fusce malesuada, magna eu porttitor fermentum, lorem arcu fermentum mi, porta faucibus lorem mauris sed felis. Curabitur dignissim risus quam, rutrum congue tellus aliquet sit amet. Cras luctus ac lectus non sollicitudin. Sed dolor metus, tempor eleifend orci et, laoreet vulputate orci. </p>
-<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque vitae malesuada massa. Proin facilisis ligula sed turpis scelerisque, ut pellentesque felis pharetra. Praesent metus elit, semper non vehicula non, pharetra quis nunc. Phasellus purus tortor, commodo non eleifend ut, blandit in leo. Aliquam sollicitudin gravida tristique. Nulla convallis nibh id massa eleifend ullamcorper. Morbi ut eleifend nisl, nec tincidunt nunc. Donec facilisis nibh tellus, non scelerisque augue varius elementum. Cras cursus mollis lectus ac malesuada. Nulla bibendum ex malesuada, dignissim neque a, scelerisque ipsum. Etiam pretium gravida odio, ac pulvinar nulla vehicula vel. Vestibulum pellentesque neque purus, eu bibendum ligula euismod id. Cras eu tristique massa. Nunc blandit vulputate mi non maximus.</p>
-<p>Nunc egestas blandit ipsum, eu faucibus lacus pulvinar sit amet. Fusce sollicitudin nulla nunc, eu lacinia lorem posuere ut. Nulla felis erat, mollis vel volutpat eget, ultrices et eros. Proin tincidunt, urna et vehicula euismod, diam elit condimentum sem, non pellentesque massa nibh vel purus. Sed egestas efficitur mollis. Nam bibendum ipsum non enim convallis rutrum. Donec vel ante metus. Mauris lacinia ante quis neque eleifend dignissim. Nulla augue lorem, consectetur non pharetra vitae, tristique a mi. Vestibulum vitae est sed mauris accumsan molestie quis non neque. Nulla commodo non magna id malesuada.
-</p>
+
+
+
+<div class="container">
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et maiores nostrum sint. Architecto corporis fuga harum illo laudantium officiis perferendis quaerat quasi quia quos repellendus saepe sed similique vitae, voluptatum.</p>
 </div>
 </div>
 
@@ -36,10 +39,7 @@
 </div>
 </section>
 <div class="container" style="padding-top:100px;padding-bottom:100px">
-<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum efficitur sed enim in mollis. Proin molestie libero id congue hendrerit. In hac habitasse platea dictumst. Aenean augue libero, scelerisque id sagittis et, tristique nec ipsum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam congue maximus efficitur. Fusce malesuada, magna eu porttitor fermentum, lorem arcu fermentum mi, porta faucibus lorem mauris sed felis. Curabitur dignissim risus quam, rutrum congue tellus aliquet sit amet. Cras luctus ac lectus non sollicitudin. Sed dolor metus, tempor eleifend orci et, laoreet vulputate orci. </p>
-<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque vitae malesuada massa. Proin facilisis ligula sed turpis scelerisque, ut pellentesque felis pharetra. Praesent metus elit, semper non vehicula non, pharetra quis nunc. Phasellus purus tortor, commodo non eleifend ut, blandit in leo. Aliquam sollicitudin gravida tristique. Nulla convallis nibh id massa eleifend ullamcorper. Morbi ut eleifend nisl, nec tincidunt nunc. Donec facilisis nibh tellus, non scelerisque augue varius elementum. Cras cursus mollis lectus ac malesuada. Nulla bibendum ex malesuada, dignissim neque a, scelerisque ipsum. Etiam pretium gravida odio, ac pulvinar nulla vehicula vel. Vestibulum pellentesque neque purus, eu bibendum ligula euismod id. Cras eu tristique massa. Nunc blandit vulputate mi non maximus.</p>
-<p>Nunc egestas blandit ipsum, eu faucibus lacus pulvinar sit amet. Fusce sollicitudin nulla nunc, eu lacinia lorem posuere ut. Nulla felis erat, mollis vel volutpat eget, ultrices et eros. Proin tincidunt, urna et vehicula euismod, diam elit condimentum sem, non pellentesque massa nibh vel purus. Sed egestas efficitur mollis. Nam bibendum ipsum non enim convallis rutrum. Donec vel ante metus. Mauris lacinia ante quis neque eleifend dignissim. Nulla augue lorem, consectetur non pharetra vitae, tristique a mi. Vestibulum vitae est sed mauris accumsan molestie quis non neque. Nulla commodo non magna id malesuada.
-</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, asperiores aut consectetur consequatur dolorum ducimus ea fugiat iure molestias nesciunt provident rem repellat repellendus totam unde vel veniam veritatis vero?</p>
 </div>
 <section class="fullwidth">
 <div class="paralax2" data-center="background-position: 50% 0px;" data-top-bottom="background-position: 50% -200px;" data-bottom-top="background-position: 50% 100px;">
@@ -47,13 +47,11 @@
 <h2 style="color:white" data-bottom-top="letter-spacing: 10px;" data-top="letter-spacing: 20px; "> Letter Spaceing On scroll </h2>
 </div>
 </section>
-<div class="container" style="padding-top:100px;padding-bottom:100px">
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum efficitur sed enim in mollis. Proin molestie libero id congue hendrerit. In hac habitasse platea dictumst. Aenean augue libero, scelerisque id sagittis et, tristique nec ipsum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam congue maximus efficitur. Fusce malesuada, magna eu porttitor fermentum, lorem arcu fermentum mi, porta faucibus lorem mauris sed felis. Curabitur dignissim risus quam, rutrum congue tellus aliquet sit amet. Cras luctus ac lectus non sollicitudin. Sed dolor metus, tempor eleifend orci et, laoreet vulputate orci. </p>
-<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque vitae malesuada massa. Proin facilisis ligula sed turpis scelerisque, ut pellentesque felis pharetra. Praesent metus elit, semper non vehicula non, pharetra quis nunc. Phasellus purus tortor, commodo non eleifend ut, blandit in leo. Aliquam sollicitudin gravida tristique. Nulla convallis nibh id massa eleifend ullamcorper. Morbi ut eleifend nisl, nec tincidunt nunc. Donec facilisis nibh tellus, non scelerisque augue varius elementum. Cras cursus mollis lectus ac malesuada. Nulla bibendum ex malesuada, dignissim neque a, scelerisque ipsum. Etiam pretium gravida odio, ac pulvinar nulla vehicula vel. Vestibulum pellentesque neque purus, eu bibendum ligula euismod id. Cras eu tristique massa. Nunc blandit vulputate mi non maximus.</p>
-<p>Nunc egestas blandit ipsum, eu faucibus lacus pulvinar sit amet. Fusce sollicitudin nulla nunc, eu lacinia lorem posuere ut. Nulla felis erat, mollis vel volutpat eget, ultrices et eros. Proin tincidunt, urna et vehicula euismod, diam elit condimentum sem, non pellentesque massa nibh vel purus. Sed egestas efficitur mollis. Nam bibendum ipsum non enim convallis rutrum. Donec vel ante metus. Mauris lacinia ante quis neque eleifend dignissim. Nulla augue lorem, consectetur non pharetra vitae, tristique a mi. Vestibulum vitae est sed mauris accumsan molestie quis non neque. Nulla commodo non magna id malesuada.
-</p>
+
+<div class="container">
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam architecto aspernatur aut cum dicta error ipsum labore minima, natus nemo neque nobis odit placeat quaerat ratione sequi vitae? Ipsum, suscipit!</p>
 </div>
+
 <section class="fullwidth">
 <div class="paralax3" data-center="background-position: 50% 0px;" data-top-bottom="background-position: 50% -200px;" data-bottom-top="background-position: 50% 100px;">
 <div class="paralaxtext"
@@ -62,12 +60,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum efficitur se
 <h2 style="color:white">I REALLY LOVE PARALLAX </h2>
 </div>
 </section>
+
 <div class="container" style="padding-top:100px;padding-bottom:100px">
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum efficitur sed enim in mollis. Proin molestie libero id congue hendrerit. In hac habitasse platea dictumst. Aenean augue libero, scelerisque id sagittis et, tristique nec ipsum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam congue maximus efficitur. Fusce malesuada, magna eu porttitor fermentum, lorem arcu fermentum mi, porta faucibus lorem mauris sed felis. Curabitur dignissim risus quam, rutrum congue tellus aliquet sit amet. Cras luctus ac lectus non sollicitudin. Sed dolor metus, tempor eleifend orci et, laoreet vulputate orci. </p>
-<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque vitae malesuada massa. Proin facilisis ligula sed turpis scelerisque, ut pellentesque felis pharetra. Praesent metus elit, semper non vehicula non, pharetra quis nunc. Phasellus purus tortor, commodo non eleifend ut, blandit in leo. Aliquam sollicitudin gravida tristique. Nulla convallis nibh id massa eleifend ullamcorper. Morbi ut eleifend nisl, nec tincidunt nunc. Donec facilisis nibh tellus, non scelerisque augue varius elementum. Cras cursus mollis lectus ac malesuada. Nulla bibendum ex malesuada, dignissim neque a, scelerisque ipsum. Etiam pretium gravida odio, ac pulvinar nulla vehicula vel. Vestibulum pellentesque neque purus, eu bibendum ligula euismod id. Cras eu tristique massa. Nunc blandit vulputate mi non maximus.</p>
-<p>Nunc egestas blandit ipsum, eu faucibus lacus pulvinar sit amet. Fusce sollicitudin nulla nunc, eu lacinia lorem posuere ut. Nulla felis erat, mollis vel volutpat eget, ultrices et eros. Proin tincidunt, urna et vehicula euismod, diam elit condimentum sem, non pellentesque massa nibh vel purus. Sed egestas efficitur mollis. Nam bibendum ipsum non enim convallis rutrum. Donec vel ante metus. Mauris lacinia ante quis neque eleifend dignissim. Nulla augue lorem, consectetur non pharetra vitae, tristique a mi. Vestibulum vitae est sed mauris accumsan molestie quis non neque. Nulla commodo non magna id malesuada.
-</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem expedita illum, minima necessitatibus nobis optio quo saepe sed unde! Aliquam amet, dolores error fugit non quasi voluptates. Dicta eligendi, quibusdam?</p>
 </div>
 
 
