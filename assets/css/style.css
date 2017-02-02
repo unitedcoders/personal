@@ -571,7 +571,13 @@ footer.main-footer nav.footer-nav ul li a{
 	margin-top: -300px;
 }
 .agency img{
-	max-height: 400px;
+    background-image:cover; 
+    background-color: transparent;  
+    opacity: 0.9;
+    z-index: -1; 
+    border-radius: 50%;
+    
+    
 }
 .agency p{
 	color:#60606e;
