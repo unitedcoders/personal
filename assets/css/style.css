@@ -49,9 +49,11 @@ section{
 	margin-top: 150px;
 }
 .green-section{
+	height: 600px;
 	background-color:#7beec7;
 }
 .white-section{
+	height: 500px;
 	background-color:#fff;
 }
 .light-gray-section{
@@ -256,6 +258,7 @@ ul.social-icons li a{
 	        box-shadow: 0 0 10px rgba(0,0,0,.2);
 }
 .btn.green{
+
 	background-color: #7beec7;
 	color:#fff;
 }
